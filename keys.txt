@@ -1,0 +1,46 @@
+
+AIM:
+
+Collect the cherries, don't crash. That's it.
+
+
+Q/Joystick 3		Accelerate
+A/Joystick 4		Break
+Left Mouse/Joystick 1	Fire
+Mouse Wheel		Change Weapon
+Shift/Joystick Twist	Roll
+
+Ctrl+W			Toggle Wireframe
+Ctrl+Alt+1		Model Render 1
+Ctrl+Alt+2		Model Render 2
+Ctrl+Alt+3		Model Render 3
+F5			Model Explode
+
+Alt+1			Camera External 1
+Alt+2			Camera External 2
+Alt+3			Camera External 3
+Alt+4			Camera External 4
+Alt+7			Camera Internal 5
+Alt+8			Camera Internal 6
+Alt+F			Free Camera
+
+Ctrl+T			Toggle Terain Render
+Ctrl+S			Toggle Sky Render
+Ctrl+G			Toggle Ocean Render
+Ctrl+F			Toggle Fighter Render
+
+F2			Device Selection
+Alt+ENTER		Toggle Fullscreen
+
+F3			Decrease Ambient Light
+F4			Increase Ambient Light
+F11			Screenshot
+
+Place user MP3s and WAVs in resource/wav2. Playback is random.
+
+:)
+
+
+Known bugs:
+Model can get inverted. Must close and relaunch to fix this.
+Contrails can disappear.

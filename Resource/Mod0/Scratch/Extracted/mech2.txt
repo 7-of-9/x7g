@@ -1,0 +1,13 @@
+This is the second mech I have done. I have not included any texture
+maps in this .zip as there aren't any important ones. You might get errors
+when it loads up in trueSpace but if you look at the included .jpg you 
+can see where you need to paint the windows/lights on the mech.
+
+oh well,
+I can be contacted at :
+
+stevem@mail.petech.ac.za
+
+any comments, suggestions or questions welcome
+
+Steve Massart

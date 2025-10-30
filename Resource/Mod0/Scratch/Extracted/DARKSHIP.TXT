@@ -1,0 +1,10 @@
+* Model:	  Space ship similar to one in "Privateer 2: The Darkening"
+* Classification: vehicles, sci-fi, space
+* Format:	  3D Studio Max 1.2
+* Face count:	  15552
+* File size:	  450K
+* Plugins:	  None
+* Archive size:   440K - including all maps
+
+* Author:	  Armand Niculescu
+* Contact:	  armand@starnets.ro, armandn@vectra.sibiu.ro

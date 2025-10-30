@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x7g_vc7", "x7_vc7.vcproj", "{2E75E3C4-96E0-4B08-9711-F286DFC2C650}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "config", "config\config.vcproj", "{617CBA35-26DD-4356-9129-DFE96332A004}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2E75E3C4-96E0-4B08-9711-F286DFC2C650}.Debug.ActiveCfg = Debug|Win32
+		{2E75E3C4-96E0-4B08-9711-F286DFC2C650}.Debug.Build.0 = Debug|Win32
+		{2E75E3C4-96E0-4B08-9711-F286DFC2C650}.Release.ActiveCfg = Release|Win32
+		{2E75E3C4-96E0-4B08-9711-F286DFC2C650}.Release.Build.0 = Release|Win32
+		{617CBA35-26DD-4356-9129-DFE96332A004}.Debug.ActiveCfg = Debug|Win32
+		{617CBA35-26DD-4356-9129-DFE96332A004}.Debug.Build.0 = Debug|Win32
+		{617CBA35-26DD-4356-9129-DFE96332A004}.Release.ActiveCfg = Release|Win32
+		{617CBA35-26DD-4356-9129-DFE96332A004}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

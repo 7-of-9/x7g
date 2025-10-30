@@ -1,0 +1,46 @@
+DEMO RELEASE
+************
+
+
+
+CODE************
+
+	FIX LIGHTING BUG
+	
+	HEIGHT AND RANGE LIMITS
+
+	INTRO W/ SHOWOFF AND BETTER BOT PLACEMENT
+
+	WAVE EFFECT ON LOAD BACKGROUNDS, W/ AE. + XLR*A LOGO
+
+	LOAD INTRO W/ FULLSCREEN AE. LOGO
+
+	INSTALLER
+
+	OPTIONS MENUITEM
+
+
+
+PACKAING********
+
+	BRANDING: CUSTOM ICON AND CONSISTENT "XLR*A" LOGO
+
+	NICE WEB SITE FOR DOWNLOAD W/ W.I.P. SCREENSHOTS
+
+	HTML INSTRUCTIONS
+	NICE GRAFX ON CONFIG APP
+	GF3+ WARNING MSGS
+	COPYRIGHT WARNINGS INC/ 3RD PARTY MATERIAL
+	
+	WORK IN PROGRESS LIST
+		1. point-to-point mission patrol.
+		2. multiplayer deathmatch.
+		3. replays.
+		4. ground targets.
+		5. vidtex playback boards.
+		6. trees.
+		7. bombers & mines.
+
+
+
+

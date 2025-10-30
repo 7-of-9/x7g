@@ -1,0 +1,330 @@
+Mesh objects:  Total vertices:2904    Total faces:4637
+
+PART.16	 
+  Vertices:24    Faces:22
+  Materials:
+		PART.16 light r
+  Smoothing:
+		 25
+PART.14	 
+  Vertices:51    Faces:51
+  Materials:
+		PART.14 light r
+  Smoothing:
+		 26
+PART.13	 
+  Vertices:15    Faces:13
+  Materials:
+		PART.13 white 2
+  Smoothing:
+		 27
+PART.11	 
+  Vertices:53    Faces:53
+  Materials:
+		PART.11 light r
+  Smoothing:
+		 28
+PART.10	 
+  Vertices:31    Faces:29
+  Materials:
+		PART.10 white 4
+  Smoothing:
+		 29
+PART.9	 
+  Vertices:143    Faces:215
+  Materials:
+		PART.9 light re
+  Smoothing:
+		 30
+PART.8	 
+  Vertices:34    Faces:32
+  Materials:
+		PART.8 white 6
+  Smoothing:
+		 31
+PART.7	 
+  Vertices:146    Faces:218
+  Materials:
+		PART.7 light re
+  Smoothing:
+		 32
+PART.6	 
+  Vertices:131    Faces:214
+  Materials:
+		PART.6 light re
+  Smoothing:
+		 17
+PART.5	 
+  Vertices:138    Faces:228
+  Materials:
+		PART.5 light re
+
+
+                                     Page 1
+
+
+
+  Smoothing:
+		 18
+PART.2	 
+  Vertices:165    Faces:176
+  Materials:
+		PART.2 light gr
+  Smoothing:
+		 19
+AXIS.8	 
+  Vertices:60    Faces:96
+  Materials:
+		AXIS.8 light re
+  Smoothing:
+		 20
+AXIS.13	 
+  Vertices:60    Faces:96
+  Materials:
+		AXIS.13 light r
+  Smoothing:
+		 21
+AXIS.18	 
+  Vertices:60    Faces:96
+  Materials:
+		AXIS.18 light r
+  Smoothing:
+		 22
+AXIS.19	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.19 light r
+  Smoothing:
+		 23
+AXIS.20	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.20 light r
+  Smoothing:
+		 24
+AXIS.21	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.21 light r
+  Smoothing:
+		 9
+AXIS.22	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.22 light r
+  Smoothing:
+		 10
+AXIS.14	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.14 light r
+  Smoothing:
+		 11
+AXIS.15	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.15 light r
+
+
+                                     Page 2
+
+
+
+  Smoothing:
+		 12
+AXIS.16	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.16 light r
+  Smoothing:
+		 13
+AXIS.17	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.17 light r
+  Smoothing:
+		 14
+AXIS.9	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.9 light re
+  Smoothing:
+		 15
+AXIS.10	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.10 light r
+  Smoothing:
+		 16
+AXIS.11	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.11 light r
+  Smoothing:
+		 1
+AXIS.12	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.12 light r
+  Smoothing:
+		 2
+AXIS.3	 
+  Vertices:60    Faces:96
+  Materials:
+		AXIS.3 light re
+  Smoothing:
+		 3
+AXIS	 
+  Vertices:16    Faces:28
+  Materials:
+		AXIS light red 
+  Smoothing:
+		 4
+AXIS.1	 
+  Vertices:16    Faces:28
+  Materials:
+		AXIS.1 light re
+  Smoothing:
+		 5
+AXIS.25	 
+  Vertices:8    Faces:12
+  Materials:
+		AXIS.25 light r
+
+
+                                     Page 3
+
+
+
+  Smoothing:
+		 6
+AXIS.27	 
+  Vertices:8    Faces:12
+  Materials:
+		AXIS.27 light r
+  Smoothing:
+		 7
+AXIS.6	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.6 light re
+  Smoothing:
+		 8
+AXIS.7	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.7 light re
+AXIS.4	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.4 light re
+AXIS.5	 
+  Vertices:8    Faces:8
+  Materials:
+		AXIS.5 light re
+AXIS.26	 
+  Vertices:22    Faces:40
+  Materials:
+		AXIS.26 light r
+AXIS.24	 
+  Vertices:12    Faces:20
+  Materials:
+		AXIS.24 light r
+AXIS.23	 
+  Vertices:12    Faces:20
+  Materials:
+		AXIS.23 light r
+PART.4	 
+  Vertices:299    Faces:444
+  Materials:
+		PART.4 black 38
+		PART.4 black 39
+PART.3	 
+  Vertices:1212    Faces:2270
+  Materials:
+		PART.3 light re
+
+Materials summary:
+
+	PART.16 light r
+	PART.14 light r
+	PART.13 white 2
+	PART.11 light r
+	PART.10 white 4
+	PART.9 light re
+	PART.8 white 6
+	PART.7 light re
+	PART.6 light re
+	PART.5 light re
+	PART.2 light gr
+
+                                     Page 4
+
+
+
+	AXIS.8 light re
+	AXIS.13 light r
+	AXIS.18 light r
+	AXIS.19 light r
+	AXIS.20 light r
+	AXIS.21 light r
+	AXIS.22 light r
+	AXIS.14 light r
+	AXIS.15 light r
+	AXIS.16 light r
+	AXIS.17 light r
+	AXIS.9 light re
+	AXIS.10 light r
+	AXIS.11 light r
+	AXIS.12 light r
+	AXIS.3 light re
+	AXIS light red 
+	AXIS.1 light re
+	AXIS.25 light r
+	AXIS.27 light r
+	AXIS.6 light re
+	AXIS.7 light re
+	AXIS.4 light re
+	AXIS.5 light re
+	AXIS.26 light r
+	AXIS.24 light r
+	AXIS.23 light r
+	PART.4 black 38
+	PART.4 black 39
+	PART.3 light re
+
+Lights:
+
+Light01	
+Light02	
+
+Cameras:
+
+Camera01	(50.00mm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 5
+
+
+

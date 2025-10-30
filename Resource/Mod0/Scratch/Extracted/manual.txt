@@ -1,0 +1,303 @@
+
+ At least read some of this. J.P.
+
+
+
+                          Objects Guide - July 1989
+
+
+ 
+   Background: 
+
+      A short time ago I realized that absolutely nobody was working
+  feverishly on decent objects so, being unemployed at the time (through
+  no fault of my own, save my sarcasm and inept laziness) I set about to
+  rectify this situation. Not being sure what I was going to construct in
+  3D, I grabbed a ladder and made toward my attic. I had'nt been up there
+  in years and what a wonderous sight met my eyes (darkness, I forgot to
+  flick on the light). I found (after achieving enlightenment) Sci-Fi
+  models from an array of Sci-Fi movie/series concieved throughout the
+  history of moviedom. Hmmm... I thought, while battling the urge to hack
+  and cough (attics are quite excessively packed with fiberglass
+  insulation... ), what the heck.
+
+      So, here they are, a smathering of Sci-Fi objects from my archive of
+  model kits. If you're into the kits, forget it. I purchased most of them
+  in the early 70's and they are IMPOSSIBLE to find . I hope you appreciate
+  the detail on some of 'em 'cause they died an untimely death at the blade
+  of Mr. Bandsaw whilst I seeked the dimensions I needed to recreate them
+  in 3D (Yep, slicing those suckers in sections every 10mm will get you
+  accuracy).
+      Aha! You say. You don't see all the Sci-Fi ships you know of here.
+  Well, if they offered it in a kit, I've got it, but do you really want
+  a 3D model of the SpinDrift shuttle from the Land of the Giants series?
+      Maybe when I get bored.
+
+ 
+   How I dun it:
+
+      I dun it all with Modeler 3D and Videoscape 3D. Very very much thanks
+  to Stuart Fergusen and Alan Hastings for these excellant programs with
+  which these objects would have never seen life without. 
+      If you absolutely must do modifications to the objects, I suggest only
+  one program at this time - Modeler 3D. Why? Obviously because all the
+  objects were created using this program.
+   
+   System:
+
+      All the objects were designed to be used on a single drive Amiga with
+      a minimum of 1Meg of RAM. This means that when creating an animation
+      with Videoscape, you are running ONLY Videoscape and no other
+      background tasks. To accomplish this, make a working copy of
+      Videoscape and edit the s/startup-sequence file to look like this:
+  
+                                       3D
+
+      thats it. or simply edit all the text out of s/startup-sequence and
+      DOS will default to a CLI screen and await your typing in of " 3D ".
+      I'm not trying to make it hard on you, but if you want quality
+      animations without RAM problems, load ONLY videoscape. 
+         If you have 1.5Meg or more of RAM you should be able to do as you
+      darn well please, but for us guys (I've only got 1Meg) who are almost
+      RAMless, well, we gots to suffer. And if you have 3Meg or more you're
+      one of the blessed ones that can use Z buffer in Videoscape in HAM
+      mode, I hope that you've got an '020 or '030 machine, 'cause if not,
+      better find alot to do while these things render (like take a weeks
+      vacation or something). 
+
+
+   Using Modeler:
+
+      You should be able to load ANY of these objects (or more) into
+      modeler without any RAM problems. Though in a severe case you may
+      not be able to get a color preview with the 65K or larger models.
+      Do not leave Modeler active while using Vscape (unless you have an
+      ungodly amount of RAM or are simply masochistic). 
+
+   Mods:
+
+      Before you load up the object you wish to modify, review it in
+      Videoscape to verify what colors/polygons you wish to modify.
+      Load the object into Modeler 3D. 
+
+   Changing individual polygons:
+
+      Now you're asking for it. If you have need of single polygon changes
+      on something as complex as any version of the 1999Eagle... good luck.
+      Na, I shouldn't be so negative. Any polygon mods can be done to any
+      object as long as you cut away all most uneeded polygons into another
+      layer (place all cut parts into the same back layer) then work on the
+      polygons you wish to change. When finished I recommend cutting the
+      layer with the modified polygons into that background layer on which
+      you placed the rest of the object. Before switching to that layer,
+      turn off visible points and normals by using top menu Display/visible.
+      Now transfer to the layer containing the complete object. Now select
+      side menu POL, then press k on your keyboard. all the polygons on your
+      screen should begin to highlight in red. When they have finished
+      highlighting (next tuesday), cut them to another layer (an empty one).
+      The reason for this procedure is to clear out any points not necessary
+      to the construct of the object, sometimes they do creep in there. Just
+      for grins, before you switch to the new layer, select the top menu
+      Display/NewWindow/Statistics. This will tell you how many points exist
+      on the layer that you cut the polygons from. Now get rid of the 
+      stat-requestor, press z to get rid of the points. Switch to the layer
+      containing the complete object. check stats on that layer, there may
+      be a lower point count, if not, no big deal, at least you know you had
+      a clean model. Now for the waiting part. Select the top menu 
+      Modify/MergePoints. If your object was over 10K... go eat lunch.
+      If not, Modeler should be ready within a minute. If you had Zero 
+      points merge during the operation then you've done something wrong...
+      try again.
+
+   Adding or removing part details:
+
+      Just a gluton for punishment, EH? Follow pretty much the same as
+      above, but keep in mind that the larger the object, the easier it is
+      to get lost and lose parts of that object.
+
+
+                                The Objects:
+
+ StarTrek:
+
+     Virtually everyone is familiar with the StarTrek series that originaly
+  ran from 1966 to 1969 and is seen worldwide even now in syndication.
+  There's no doubt that the starships first seen in the Trek series were to
+  be amoungst the most beautiful ever designed. Their shapes defined
+  simplicity yet were not so complicated as to distract or make them
+  unremarkable. 
+
+  
+      (description)         (file size)  
+
+    Enterprise.Complex.S       40960      (Smoothed -  note .S designation)
+    Enterprise.Complex         40960      (Non-Smoothed)
+    Enterprise.Simple.S        26704      (Simpler version)
+    Enterprise.Simple          26704
+    Enterprise.RealSimp.S      12718      (Much simpler version)
+    Enterprise.RealSimp        12718
+
+    SpaceStationK7.S           13808
+    SpaceStationK7             13808
+
+    RomulanShip.S               5448
+    RomulanShip                 5448
+
+    Galileo.S                   4962
+    Galileo                     4962
+
+   The Enterprise - 
+     Availible in Complex/Simple/RealSimple and Smoothed/Nonsmoothed
+     versions for whatever your system can handle. The ship is primarily
+     white (15), and as I mentioned previously, white is one of worst
+     colors to render/animate, but it is the Enterprises' original color.
+     Originally designed by Gene Roddenerry and Matt Jefferies for 
+     Star Trek - the series..
+
+   SpaceStationK7 -
+     Recreated from David Gerrolds' famous "Trouble with Tribbles" episode.
+     Scaled proportionally to all other Trek spacecraft.
+
+   RomulanShip -
+     Romulan Bird of Prey. Sorry, no Bird on the hull like the real one.
+
+   Galileo Shuttlecraft -
+     Technically unexciting but included just for yuks.
+
+   Klingon Cruiser - 
+     Sorry, but I became employed 'bout half way through this one,
+     so ya gotta wait till I release the next objects disk.
+
+
+  Space 1999:
+
+     A BBC (From England) series produced in the mid seventies, Space 1999
+  was based on the premise of a nuclear explosion on a moonbase (Alpha)
+  that forces the moon out of Earth orbit into space and two seasons
+  of adventures.
+   
+    Eagle.Extreme.S            58714
+    Eagle.Extreme              58714
+    Eagle.Complex.S            39746
+    Eagle.Complex              39746
+    Eagle.Simple.S             32866
+    Eagle.Simple               32866
+    UtilityPod.S                2838
+    UtilityPod                  2838
+
+   Eagle Shuttle - 
+     Based somewhat on the 2001 Moonbus, Moonbase Alphas' Eagle fleet
+     primary purpose was the transportation of personnel and supplies
+     between orbitting Earth Stations and the Moonbase. Originally designed
+     by Brian Johnson for Space 1999 - the series.
+
+  Star Wars: 
+
+     Ya gotta know what this is. Nuff said.
+
+    X-Wing.Complex.S           27474
+    X-Wing.Complex             27474
+    Tiefighter.S               19738
+    Tiefighter                 19738
+    DeathStar.S                17248
+    DeathStar                  17248
+
+   X-Wing Fighter - 
+     Designed by George Lucas/John Dykstra/ILM, The X-winger is a realistic
+     interpretation of what a multirole starfighter should be. Flown by Luke
+     Skywalker in the movie serials, the X-wing fighter has proven itself a
+     visually effective spacecraft.
+
+   TieFighter - 
+     What self righteous X-winger would venture off into space without some-
+     thing to pursue and obliterate? The Tiefighter is the main starfighter
+     of the Empire, no Dark Lord of the Seth would leave home without one.
+     (Oops! Almost forgot... Lucas/Dykstra/ILM creators).
+
+   Deathstar - 
+     Hey, ya gotta have some kinda target, right. So, load up those
+     X-wingers and Tiefighters (throw in a Trek shuttle craft or two just
+     for yuks) and try to launch some Neutron-torpedoes down the vent shaft
+     on this thing. 'Cause yes, this Deathstar even has a vent shaft and
+     all those crosswalk tunnels cluttering up the trench. So like, you
+     better be real good with picking coordinates for those keyframes in
+     your animations. And oh yea...  Copyright 1977 - Lucas/Dykstra/ILM.
+
+
+  Dr. Who:
+
+     From the BBC tv series that refuses to roll over and die, The famous 
+     Tardis is simply (form the outside) a police call box. On the inside
+     it's a complex Time And Relative Dimensions In Space device. But alas,
+     to see the interior you'll have to watch the series on PBS 'cause
+     there's no way I could have got the interior to fit (little joke,
+     watch an episode... you'll get it).
+ 
+    Tardis.Complex             29586
+    Tardis.Simple              14730
+    Tardis.Simplest            11334
+
+  50s' Spaceships:
+
+     A select pair from the 50's. The Generic ship appeared in a dozen "B"
+     movies during the fifties and sixties in various configurations. The 
+     forbidden planet ship is the cliche' "Flying Saucer" and was not
+     really my crowning achievment on Modeler3D but hey, someone'll use it.
+
+    GenericShip                10634
+    GenericShip.S              10634
+    ForbiddenPlanet.S           5038
+    ForbiddenPlanet             5038
+
+  2001: a Space Odyssey:
+
+     From Stanley Kubricks much criticized 1965 Film of mans exploits at
+     the reaches of our solar system.
+
+    2001SpaceWheel.S           13470
+    2001SpaceWheel             13470
+    2001Clipper.S               3966
+    2001Clipper                 3966
+
+   SpaceWheel - 
+     A fully completed (in the movie it was still under construction)
+     version of the spacewheel that the PanAm clipper docks with.
+     (Stanley Kubrick/Brian Johnson - creators).
+
+   PanAm Clipper - 
+     Earth to Spacestation shuttle seen in beginning of movie. (I know,
+     I know, everyone wants the moonbus right? I wish that I had the model
+     kit, I would have done it... sorry).
+
+   Thats it folks. If you're real nice and send for lots more subscriptions
+   from the folks at AmazingComputing/AMIGA maybe I'll get my butt in gear
+   and finish some of the partially completed objects I've got around here.
+
+
+                        John Adam Pfeiffer - July 1989
+
+  If you must contact me for some reason, heres my address, don't abuse it.
+
+                        John Adam Pfeiffer
+                        c/o Hey!3DStuff (don't really have to include this)
+                        446 Algene Drive
+                        Lake Orion, Mich. 48035
+
+
+Copyright: (Or something deceptively similar)
+
+  Note: This is not commercial software nor is it shareware, so like ya 
+  can't sell it to anyone or recieve compesation for distributing it 'cause
+  like it's PUBLIC DOMAIN!!!... and I can do anything I want with this
+  software cause I'm not selling it or making any money off it (rats!)
+  and I can send it or give to anyone I want and you can't do diddley
+  squat 'cause It's mine...  so there... Pffft!
+
+
+     JOHN PFEIFFER a trademark of "The John Pfeiffer software that is
+
+     freely and unavoidably distributable 'cause he wants it that way
+ 
+     and 'cause he can do anything he wants with it so there pffft!" 
+  
+     Corporation.  (Not really).

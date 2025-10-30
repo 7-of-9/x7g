@@ -1,0 +1,33 @@
+3D Vector Objects
+
+  This collection of five vector objects was created by Joseph Contegiacomo
+of Polar Arts.  The objects are all very detailed, very futuristic
+spacecraft.  They are in Sculpt .SCENE format and can be loaded and
+rendered using one of the Byte By Byte Sculpt programs such as Sculpt
+Animate 4D.  Or, by using Interchange from Syndesis you can transform them
+to other formats such as Turbo Silver or VideoScape.
+  The five objects are named
+
+  SatProbe.scene
+  BD-5.scene
+  Bomber.scene
+  Fighter.scene
+  Killer.scene
+
+                  ---------------------------------------
+
+       The above was the READ.ME included with the original archive.
+
+  The objects have been converted to IMAGINE format by the use of X-obj,
+then converted and fixed by TTDDD and then read, and written by Imagine 1.1.
+
+            This should insure a good conversion in most cases.
+
+                       These objects are shareware.
+
+                             -- Steven Webb --
+
+Only  ///|Steven Lee Webb  +---------------------------------------+  /\__Luxo|
+Amiga/// |CSU - Comp. Sci. |  11-XAV a edisni deppart ma I !pleH   |  \\ /\ Jr|
+ \\\///  |Amiga 500-5M Ram |     webbs@handel.cs.colostate.edu     |  /|/\ _  |
+  \XX/   |50M Hard Drive   +---------------------------------------+ // \ (_) |

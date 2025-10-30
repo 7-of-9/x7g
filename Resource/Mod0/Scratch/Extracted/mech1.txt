@@ -1,0 +1,26 @@
+MECH1.COB
+---------
+
+I have been trying to think of a worthwhile project to work on in
+trueSpace 2. I saw some models at a friends house of Battle Mechs 
+and I decided that these would look cool in trueSpace, so I 
+borrowed them. This is the first MECH of two (the other I am 
+still working on). Hope they are of use to someone...
+
+Remember ... trueSpace rules!
+
+Look out for trueSpace 3 coming soon!
+
+Contact me at:
+
+Steve Massart
+Port Elizabeth, South Africa
+stevem@mail.petech.ac.za
+http://stud.petech.ac.za/~9430393/index.html
+
+Some info:
+----------
+
+file size : 399KB
+format : trueSpace .COB
+faces : 5419

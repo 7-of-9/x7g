@@ -1,0 +1,46 @@
+//Explosions animation
+1.0
+
+NrFrames: 35
+NrLoops: 1
+Opacity: 0.99975f
+
+xSize: 4.0f
+ySize: 4.0f
+
+//Bilderna
+Data/Animations/Explosion/expl001.frm
+Data/Animations/Explosion/expl002.frm
+Data/Animations/Explosion/expl003.frm
+Data/Animations/Explosion/expl004.frm
+Data/Animations/Explosion/expl005.frm
+Data/Animations/Explosion/expl006.frm
+Data/Animations/Explosion/expl007.frm
+Data/Animations/Explosion/expl008.frm
+Data/Animations/Explosion/expl009.frm
+Data/Animations/Explosion/expl010.frm
+Data/Animations/Explosion/expl011.frm
+Data/Animations/Explosion/expl012.frm
+Data/Animations/Explosion/expl013.frm
+Data/Animations/Explosion/expl014.frm
+Data/Animations/Explosion/expl015.frm
+Data/Animations/Explosion/expl016.frm
+Data/Animations/Explosion/expl017.frm
+Data/Animations/Explosion/expl018.frm
+Data/Animations/Explosion/expl019.frm
+Data/Animations/Explosion/expl020.frm
+Data/Animations/Explosion/expl021.frm
+Data/Animations/Explosion/expl022.frm
+Data/Animations/Explosion/expl023.frm
+Data/Animations/Explosion/expl024.frm
+Data/Animations/Explosion/expl025.frm
+Data/Animations/Explosion/expl026.frm
+Data/Animations/Explosion/expl027.frm
+Data/Animations/Explosion/expl028.frm
+Data/Animations/Explosion/expl029.frm
+Data/Animations/Explosion/expl030.frm
+Data/Animations/Explosion/expl031.frm
+Data/Animations/Explosion/expl032.frm
+Data/Animations/Explosion/expl033.frm
+Data/Animations/Explosion/expl034.frm
+Data/Animations/Explosion/expl035.frm

@@ -1,0 +1,247 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CONFIG_DIALOG DIALOGEX 0, 0, 427, 276
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "config"
+FONT 8, "Verdana", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,312,12,50,16
+    PUSHBUTTON      "Cancel",IDCANCEL,366,12,50,16
+    GROUPBOX        "Sound",IDC_STATIC,192,48,228,108
+    GROUPBOX        "Video",IDC_STATIC,6,48,180,174
+    CONTROL         "",IDC_SLIDER_FXVOL,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,222,72,192,15
+    CONTROL         "Clamp framerate to vertical-sync.",IDC_CHECK_VSYNC,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,36,96,137,9
+    CONTROL         "Full Scene AntiAliasing",IDC_CHECK_FSAA,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,18,114,108,9
+    EDITTEXT        IDC_EDIT_MP3PATH,228,132,78,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Browse...",IDC_BUTTON_MP3BROWSE,312,132,42,12
+    LTEXT           "Music Volume",IDC_STATIC,204,90,78,8
+    LTEXT           "Effects Volume",IDC_STATIC,205,60,78,8
+    LTEXT           "Geometric Detail",IDC_STATIC,18,174,78,12
+    CONTROL         "400x300",IDC_RADIO_LOWRES,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,36,78,48,12
+    CONTROL         "640x480",IDC_RADIO_MEDRES,"Button",BS_AUTORADIOBUTTON,
+                    84,78,48,12
+    CONTROL         "800x600",IDC_RADIO_HIRES,"Button",BS_AUTORADIOBUTTON,
+                    132,78,48,12
+    CONTROL         "Low",IDC_RADIO_LOWDET,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,36,186,36,12
+    CONTROL         "Medium",IDC_RADIO_MEDDET,"Button",BS_AUTORADIOBUTTON,84,
+                    186,42,12
+    CONTROL         "High",IDC_RADIO_HIDET,"Button",BS_AUTORADIOBUTTON,132,
+                    186,42,12
+    LTEXT           "MP3 Folder",IDC_STATIC,204,120,54,8
+    CONTROL         "Fullscreen",IDC_CHECK_FULLSCREEN,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,18,60,84,12
+    CONTROL         "",IDC_SLIDER_MUSICVOL,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,222,101,192,15
+    CONTROL         "2x",IDC_RADIO_MULTISAMPLE2,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,36,126,30,12
+    CONTROL         "3x",IDC_RADIO_MULTISAMPLE3,"Button",BS_AUTORADIOBUTTON,
+                    84,126,30,12
+    CONTROL         "4x",IDC_RADIO_MULTISAMPLE4,"Button",BS_AUTORADIOBUTTON,
+                    132,126,30,12
+    CONTROL         "16-bit",IDC_RADIO_DEPTH16,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,36,156,36,12
+    CONTROL         "24-bit",IDC_RADIO_DEPTH24,"Button",BS_AUTORADIOBUTTON,
+                    84,156,36,12
+    CONTROL         "32-bit",IDC_RADIO_DEPTH32,"Button",BS_AUTORADIOBUTTON,
+                    132,156,36,12
+    LTEXT           "Depth Buffer Format",IDC_STATIC,18,144,78,12
+    GROUPBOX        "Input",IDC_STATIC,192,162,228,60
+    PUSHBUTTON      "AutoScan...",IDC_BUTTON_MP3AUTOSCAN,360,132,48,12
+    LTEXT           "Sensitivity",IDC_STATIC,204,174,84,8
+    CONTROL         "",IDC_SLIDER_SENS,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,222,186,192,15
+    CONTROL         "Invert Mouse",IDC_CHECK_INVERT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,204,204,108,9
+    GROUPBOX        "Dbg",IDC_STATIC,7,228,413,41
+    CONTROL         "Autograb",IDC_CHECK_AUTOGRAB,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,36,246,42,9
+    CONTROL         "Start at level 9",IDC_CHECK_START9,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,84,246,60,9
+    CONTROL         "Start at level 19",IDC_CHECK_START19,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,150,246,66,9
+    CONTROL         "Autostart",IDC_CHECK_AUTOSTART,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,222,246,48,9
+    CONTROL         "Non-exclusive mouse",IDC_CHECK_MOUSENONEX,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,270,246,84,9
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "CompanyName", "TODO: <Company name>"
+            VALUE "FileDescription", "TODO: <File description>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "config.exe"
+            VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+            VALUE "OriginalFilename", "config.exe"
+            VALUE "ProductName", "TODO: <Product name>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_CONFIG_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 420
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 269
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// RT_MANIFEST
+//
+
+IDR_MANIFEST            RT_MANIFEST             "res\\config.manifest"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.K.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#include ""res\\config.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\config.ico"
+#endif    // English (U.K.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#include "res\config.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

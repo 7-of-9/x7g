@@ -1,0 +1,17 @@
+
+I've played around with Truespace for a while, but this was the first time I've seriously tried to make an object. I decided to start with the first computer-generated images I could remember seeing; namely, the movie TRON. 
+
+The model in this zip file is a re-creation of Clu's Tank, my favorite vehicle from that now-classic film. The turret has its own axis, so it should be easy to rotate for posing or animation. 
+
+The toughest part in doing this was figuring out a way to mimic the glowing "outline" effect on certain objects (as rendered in the film). While the method I used was not hard to execute, it required a lot of patience and attention to detail.
+
+I hope you find this object useful and fun to play with. I know I enjoyed making it.
+
+John Boren
+
+jboren@ix.netcom.com
+
+Also, be sure to check out my cartoons and artwork at:
+
+http://www.geocities.com/SoHo/Studios/7301
+

@@ -1,0 +1,199 @@
+d/l the material.zip file to !
+  Object    Verts  Faces      Material        Mapping   Hidden
+----------  -----  -----  ----------------  ----------- ------
+waist        1593   2998  DESERT CAMO       Applied      No
+                          BLACK MATTE       Applied      
+                          TWOLF 4           Applied      
+                          SILVER            Applied      
+up lft leg    161    310  DESERT CAMO       Applied      No
+up rgt leg    161    310  DESERT CAMO       Applied      No
+rgt foot     1325   2358  DESERT CAMO       Applied      No
+lw rgt leg    609   1182  DESERT CAMO       Applied      No
+lw lft leg    609   1182  DESERT CAMO       Applied      No
+lft foot     1325   2358  DESERT CAMO       Applied      No
+rgt arm       347    674  DESERT CAMO       Applied      No
+lft arm       347    674  DESERT CAMO       Applied      No
+lft missle    784   1440  RED PLASTIC       Applied      No
+                          Default           Applied      
+rgt missle    784   1440  RED PLASTIC       Applied      No
+                          Default           Applied      
+body         1056   1928  DESERT CAMO       Applied      No
+                          BLACK MATTE       Applied      
+                          TWOLF 4           Applied      
+                          CHROME BLUE SKY   Applied      
+                          SILVER            Applied      
+
+Mesh Objects: Total vertices:9101  Total faces:16854
+
+waist  
+  Vertices:1593   Faces:2998
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+    BLACK MATTE
+    TWOLF 4
+    SILVER
+  Smoothing:
+     1, 2, 3, 4, 5, 6
+up lft leg  
+  Vertices:161   Faces:310
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 10, 11, 12, 17
+up rgt leg  
+  Vertices:161   Faces:310
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 10, 11, 12, 17
+rgt foot  
+  Vertices:1325   Faces:2358
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+     21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+lw rgt leg  
+  Vertices:609   Faces:1182
+  Mapping coordinates applied.
+
+                                     Page 1
+
+
+
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 10, 11, 12, 17
+lw lft leg  
+  Vertices:609   Faces:1182
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 10, 11, 12, 17
+lft foot  
+  Vertices:1325   Faces:2358
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+     21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+rgt arm  
+  Vertices:347   Faces:674
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 10, 11, 12, 17
+lft arm  
+  Vertices:347   Faces:674
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 10, 11, 12, 17
+lft missle  
+  Vertices:784   Faces:1440
+  Mapping coordinates applied.
+  Materials:
+    RED PLASTIC
+  Smoothing:
+     1, 2, 3
+rgt missle  
+  Vertices:784   Faces:1440
+  Mapping coordinates applied.
+  Materials:
+    RED PLASTIC
+  Smoothing:
+     1, 2, 3
+body  
+  Vertices:1056   Faces:1928
+  Mapping coordinates applied.
+  Materials:
+    DESERT CAMO
+    BLACK MATTE
+    TWOLF 4
+    CHROME BLUE SKY
+    SILVER
+  Smoothing:
+     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+     21, 22, 23, 24, 25, 26, 27
+
+Materials summary:
+
+                                     Page 2
+
+
+
+
+  DESERT CAMO
+  Maps: T1:CAMOFLAG.CEL/None
+        T2:SMOKE_I.SXP/None
+         O:None/None
+         B:CAMOFLAG.CEL/None
+        SP:None/None
+        SH:None/None
+        SI:None/None
+         R:REFMAP.GIF/None
+  RED PLASTIC
+  BLACK MATTE
+  TWOLF 4
+  Maps: T1:CAMOFLAG.CEL/None
+        T2:TW4T.GIF/None
+         O:None/None
+         B:None/None
+        SP:None/None
+        SH:None/None
+        SI:None/None
+         R:REFMAP.GIF/None
+  CHROME BLUE SKY
+  Maps: T1:WIREPINK.GIF/None
+        T2:None/None
+         O:None/None
+         B:None/None
+        SP:None/None
+        SH:None/None
+        SI:None/None
+         R:SKY.JPG/None
+  SILVER
+  Maps: T1:None/None
+        T2:None/None
+         O:None/None
+         B:None/None
+        SP:None/None
+        SH:None/None
+        SI:None/None
+         R:REFMAP.GIF/None
+
+Lights:
+
+Light01 
+Light02 
+Light03 
+Light04 
+Light05 
+Light06 
+
+Cameras:
+
+Camera01 (50.00mm)
+*** END OF FILE ***
+
+
+
+
+
+
+
+
+
+                                     Page 3
+
+
+

@@ -1,0 +1,69 @@
+December 2, 1994                                                Harry H.C.
+
+     Space Craft from Star Wars Trilogy, original design by John Dykstra
+     and others (I'm not sure).
+     This document contains some information about following files.
+
+DEATHS.ZIP  : Death Star #1  with 200 frame animation
+              Death Star Trench Run animation with X-Wing and Tie Interceptor.
+              (I know, TIE Interceptor didn't exist in Episode IV, you
+              may replace it with TIE Fighter or Darth Vader's TIE Fighter)
+              from Episode IV (1977)
+
+TIE-F-.ZIP  : TIE Fighter of the Imperial Force
+              ( Vertices : 1784, Faces : 3135 )
+              from Episode IV (1977)
+
+TIE-DV.ZIP  : Darth Vader's TIE Fighter (a.k.a. Prototype TIE Interceptor)
+              ( Vertices : 1502, Faces : 2743 )
+              from Episode IV (1977)
+
+TIE-I-.ZIP  : TIE Interceptor of the Imperial Force
+              ( Vertices : 2309, Faces : 3991 )
+              from Episode V (1980)
+
+TIE-B-.ZIP  : TIE Bomber of the Imperial Force
+              ( Vertices : 1904, Faces : 3531 )
+              from Episode V (1980)
+
+AT-AT-.ZIP  : All-Terrain Armored-Transport with 400 frame animation.
+              AT-AT walks for a while and blast everything in its way. 
+              sorry, AT-AT model is not as detailed as TIE's, I do not 
+              have good picture of it, and have hard time finding good 
+              pictures any where.
+              from Episode V (1980)
+
+     These are Project files.  Move any .TGA or .JPG files to your maps
+  directory and load the .PRJ files.  I prefer .PRJ files because they  
+  preserve unit setup.  Render at 640 x 300 resolution, the background 
+  picture is in 640 x 300 resolution.
+
+     The meshes got most of my attention, so the mapping, materials, and
+  lightings are not as good as they should be.  You are responsible for 
+  supplying them if you are not satisfied with mine.    
+  
+     Unlike the other TIE Fighter models out there, mines are created using 
+  3D-Studio 3.0.  So All the invisible lines are invisible as they should be.  
+  All the animations are done using 3D-Sudio 3.0.  The meshes are based on
+  several books and magazine articles, I have found some discrepancies between
+  different sources concerning the dimensions of the vehicles.  I used the
+  dimensions that made most sense to me.
+  
+     For faster rendering, I have created the meshes in such way that you 
+  have to render with Forced 2 Sided option on, to get correct images.
+  Also don't forget to set the units to metrics ( It is already been set to
+  metrics if .prj file is used ), because all the meshes are done in 
+  metrics and Yes, they are in scale.  If you find any discrepancies or 
+  deviations from documents you may have, just let me know, I will fix 
+  meshes as soon as possible.
+
+Caution: For Death Star Project,
+  Death Star has diameter of 120,000 meters while the TIE's are about 
+  6 meters in length, so don't get lost!
+
+  I am still working on X-Wing, Y-Wing, A-Wing, B-Wing, AT-ST, Imperial Star
+  Destroyer, Imperial Shuttle Tyderium, Millennium Falcon, Rebel Frigate, 
+  Rebel Corvette (a.k.a. Blockade runner), Darth Vader's Star Destroyer and 
+  Death Star II (with its Docking Bay).
+
+  Also several .FLC's and .MPG's are available.
